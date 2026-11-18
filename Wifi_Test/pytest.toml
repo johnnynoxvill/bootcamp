@@ -1,0 +1,4 @@
+# pytest.toml
+[pytest]
+testpaths = ["tests"]
+pythonpath = ["src"]
